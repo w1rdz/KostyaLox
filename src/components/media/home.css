@@ -1,0 +1,34 @@
+@media (max-width:393px){
+    .homeCon{
+        padding: 0 10px;
+    }
+    .homeCon2{
+        display: block;
+    }
+    .homeZag{
+        text-align: center;
+        font-size: 22px;
+    }
+    .pHome{
+        text-align: center;
+    }
+    .pHome span{
+        display: contents;
+    }
+    .homeZag2{
+        font-size: 22px;
+    }
+    .homeP2{
+        font-size: 14px;
+    }
+    .homePages{
+        display: block;
+    }
+    .homeForm{
+        margin-bottom: 20px;
+        padding: 0 8px;
+    }
+    .homeImg{
+        padding-bottom: 40px;
+    }
+}

@@ -1,0 +1,14 @@
+@media(max-width:393px){
+    .footerCon{
+        padding: 0 10px;
+        display: block;
+        text-align: center;
+    }
+    .footerList1{
+      column-gap: 170px;
+        
+    }
+    .footerText{
+        padding-bottom: 20px;
+    }
+}

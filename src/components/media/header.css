@@ -1,0 +1,11 @@
+@media (max-width:393px){
+    .dNone{
+        display: none;
+    }
+    .menu{
+        display: block;
+    }
+    .headerCon{
+        padding: 0px 10px;
+    }
+}
